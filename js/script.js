@@ -1,3 +1,3 @@
-console.log("hello world")
+console.log("hello world!")
 
-document.body.innerText()
+console.log("novy riadok")
