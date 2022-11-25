@@ -1,3 +1,3 @@
 console.log("hello world")
 
-document.body.innerText(() => )
+document.body.innerText()
